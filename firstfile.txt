@@ -1,0 +1,12 @@
+Testing ability to:
+ - create directories
+ - create files
+ - initialize a directory for git remote access
+ - adding files to be committed
+ - committing files and using proper procedure on commit messages
+ - pushing changes to origin master
+ - creating remote repository on github
+ - making changes to a text file and pushing the changes to github from the Terminal
+ - also, practicing typing really fast so I can keep up in class
+ - CMND + S to save in Atom
+ 
